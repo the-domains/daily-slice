@@ -1,0 +1,14 @@
+layout_spectrum: 0.8626708763185889
+typography_spectrum: 0.6924847206100821
+color:
+  brandStrength: 0.5501338427420706
+  lightness: 0.9464695695787668
+  saturation: 0.7694235555827618
+  rhythmicContrast: 0.7078917326871306
+  brandColors:
+    - '#10222B'
+    - '#95AB63'
+    - '#BDD684'
+    - '#E2F0D6'
+    - '#F6FFE0'
+name: Daily Slice
