@@ -6,9 +6,9 @@ color:
   saturation: 0.7694235555827618
   rhythmicContrast: 0.7078917326871306
   brandColors:
-    - '#10222B'
-    - '#95AB63'
-    - '#BDD684'
-    - '#E2F0D6'
-    - '#F6FFE0'
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
 name: Daily Slice
