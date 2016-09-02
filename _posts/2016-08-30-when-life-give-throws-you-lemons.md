@@ -1,19 +1,19 @@
 ---
-datePublished: '2016-08-30T17:04:04.698Z'
+datePublished: '2016-08-30T17:08:14.933Z'
+sourcePath: _posts/2016-08-30-when-life-give-throws-you-lemons.md
 inFeed: true
 author: []
 via: {}
-dateModified: '2016-08-30T17:02:25.332Z'
+dateModified: '2016-08-30T17:08:14.660Z'
 title: ''
 publisher: {}
 description: When life give throws you lemons?
 starred: false
-sourcePath: _posts/2016-08-30-when-life-give-throws-you-lemons.md
 _type: Blurb
 
 ---
 When life give throws you lemons?
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/236a4fa9-86ca-45c9-bbc7-51762acbc6b1.jpg)
+![What do you do when you are confronted with a situation that dictates a reaction and that reaction will create your altitude.](https://the-grid-user-content.s3-us-west-2.amazonaws.com/236a4fa9-86ca-45c9-bbc7-51762acbc6b1.jpg)
 
 There are many times in life that things don't go your way. In sports, this could be the referee making a call that doesn't seem fair or even worse that takes you out of the game our causes your team to lose the game. Sometimes, these are some of the hardest things to live with in life. I wish that I could say that they won't haunt you over time but I have found that inevitably these things follow you have call into questions whether or not life is fair. That's just the way our brain works! It takes everything in and looks for similar patterns.
 
@@ -23,7 +23,7 @@ What you can control is how you respond to lemons. If you react negatively such 
 
 This incident was nothing but negative for both teams involved and the players themselves. Some of the players careers were never able to recover from the unforgettable "Malice at the Palace".
 
-How you react to the lemons doesn't define who you are. However, it does carry a lot of weight on how people see you. It is this specific reason that you must gauge your reaction and remain steadfast in your belief that ultimately God is in control and the outcome will be what he intended. Win and Losses mean nothing to God. As with everything, it is your character that is his ultimate goal. 
+How you react to the lemons doesn't define who you are. However, it does carry a lot of weight on how people see you. It is this specific reason that you must gauge your reaction and remain steadfast in your belief that ultimately God is in control and the outcome will be what he intended. Win and Losses mean nothing to God. As with everything, it is your character that is his ultimate goal.
 
 Daily Vitamin: James 1: 2-6
 
